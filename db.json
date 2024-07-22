@@ -1,10 +1,9 @@
 {
     "items": [
         {
-            "id" : 1,
-            "itemName" : "banana",
-            "itemQuantity" : "2"
+            "id": 1,
+            "name": "Sample Item",
+            "quantity": 10
         }
-        
     ]
 }
