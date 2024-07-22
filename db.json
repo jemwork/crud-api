@@ -1,3 +1,10 @@
 {
-    "items": []
+    "items": [
+        {
+            "id" : 1,
+            "itemName" : "banana",
+            "itemQuantity" : "2"
+        }
+        
+    ]
 }
