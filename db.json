@@ -1,9 +1,3 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "name": "Sample Item",
-            "quantity": 10
-        }
-    ]
+    "users": []
 }
