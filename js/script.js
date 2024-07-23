@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const formData = new FormData(formEl);
     const data = Object.fromEntries(formData);
 
-    fetch('http://localhost:3000/users', {
+    fetch('https://my-json-server.typicode.com/jemwork/crud-api/users', {
       method: 'POST',
       headers: {
         'Content-Type' : 'application/json'
